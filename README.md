@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/5d1e914f-cefb-4c8d-b22e-d27b3bb912fe.png" /></a>
 
