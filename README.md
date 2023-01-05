@@ -16,16 +16,10 @@ Here are some ideas to get you started:
 -->
 ![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight)
 
-   <div>
-        <hr/>
-        <p align="center">
-          <a href="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/0ed6cfaa-b4c7-46d0-a544-d6630ad5a3ea.png" ></a>
-        </p>
-    </div>
-    
-    <a href="https://github.com/SerkanCicek1/github-profile-trophy">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/5d1e914f-cefb-4c8d-b22e-d27b3bb912fe.png" /></a>
+
+<a href="https://github.com/SerkanCicek1/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&row=1&column=7&theme=darkhub" alt="SerkanCicek1" />
         </a>
     </div>
-    
     
