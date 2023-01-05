@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight)
 
-<a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/ca48e4e3-3079-4fb3-a676-2103a9cc94bd.png"></a>
-"https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/ca48e4e3-3079-4fb3-a676-2103a9cc94bd.png"
+<div>
+        <hr/>
+        <p align="center">
+          <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/e706889b-2dd7-4357-9965-852ead4bce0c.png" /></a>
+        </p>
+    </div>
