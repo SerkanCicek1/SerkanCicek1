@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight)
+![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&layout=compact)](https://github.com/SerkanCicek1/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/5d1e914f-cefb-4c8d-b22e-d27b3bb912fe.png" /></a>
 
