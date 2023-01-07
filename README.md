@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true) 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&border_radius=4,5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
    
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views) 
 
-<a href="https://wakatime.com"><img src="BOZMA YAZISIhttps://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/645cc11a-b5b9-46fb-a55a-93dab67c8446.svg" /></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/d6284780-ff9f-4271-88f7-359fdef95cd3.svg" /></a>
 
 <a href="https://github.com/SerkanCicek1/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&row=1&column=7&theme=darkhub" alt="SerkanCicek1" />
