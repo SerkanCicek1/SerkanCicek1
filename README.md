@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views) 
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/SerkanCicek1/github-readme-stats)
-
+ 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/4fb6d346-c053-4713-bbd0-c71af81deba0.svg" /></a>
 
 <a href="https://github.com/SerkanCicek1/github-profile-trophy">
