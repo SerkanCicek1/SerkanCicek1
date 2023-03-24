@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
+  
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views) 
