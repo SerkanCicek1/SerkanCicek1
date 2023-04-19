@@ -14,14 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![MasterHead](https://github.com/SerkanCicek1/PaperRockScissors/blob/master/images%20for%20README/Hi%2C%20I'm%20Serkan.png)](https://github.com/SerkanCicek1)
----
-![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
----
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true" align="center" /></div>  
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true)
+### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,spring,mongodb,vscode,discord&theme=dark)](https://skillicons.dev)
 
 <div align="center">
 <a href="https://github.com/SerkanCicek1" target="_blank">
@@ -37,12 +31,14 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,spring,mongodb,vscode,discord&theme=dark)](https://skillicons.dev)
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true" align="center" /></div> 
+
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /></div> 
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true" align="center" /></div> 
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&row=1&column=7&theme=darkhub" align="center" /></div> 
    
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/4fb6d346-c053-4713-bbd0-c71af81deba0.svg" /></a>
  
-<a href="https://github.com/SerkanCicek1/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&row=1&column=7&theme=darkhub" alt="SerkanCicek1" />
-        </a>
-    </div>
