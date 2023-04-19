@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://github.com/SerkanCicek1/PaperRockScissors/blob/master/Hi%2C%20I'm%20Serkan.png)](https://github.com/SerkanCicek1)
+[![MasterHead](https://github.com/SerkanCicek1/PaperRockScissors/blob/master/images%20for%20README/Hi%2C%20I'm%20Serkan.png)](https://github.com/SerkanCicek1)
 ---
 ![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
