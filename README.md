@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://github.com/SerkanCicek1/PaperRockScissors/blob/master/images%20for%20README/Hi%2C%20I'm%20Serkan.png)](https://github.com/SerkanCicek1)
 ---
-![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true)
+![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&row=1&column=7&theme=darkhub" align="center" /></div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true" align="center" /></div>
-
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /></div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true" align="center" /></div>  
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true)
 
 <div align="center">
 <a href="https://github.com/SerkanCicek1" target="_blank">
