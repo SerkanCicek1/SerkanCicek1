@@ -21,7 +21,13 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,spring,mongodb,vscode,discord&theme=dark)](https://skillicons.dev)
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views)
+
+<div style="text-align: center;">
+  
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views)
+ 
+</div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/SerkanCicek1/github-readme-stats)
    
