@@ -18,18 +18,30 @@ Here are some ideas to get you started:
 ![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&row=1&column=7&theme=darkhub" align="center" /></div>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SerkanCicek1&show_icons=true&theme=tokyonight&hide_border=true" align="center" /></div>
+
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=SerkanCicek1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" /></div>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true" align="center" /></div>  
+
+<div align="center">
+<a href="https://github.com/SerkanCicek1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/cicekserkan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+<div align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views" align="center" />
+</div>
+
+---
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,spring,mongodb,vscode,discord&theme=dark)](https://skillicons.dev)
- 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views)
-
-<div style="text-align: center;">
-  
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views)
- 
-</div>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/SerkanCicek1/github-readme-stats)
    
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/4fb6d346-c053-4713-bbd0-c71af81deba0.svg" /></a>
  
