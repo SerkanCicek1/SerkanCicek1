@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true" align="center" /></div> 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&row=1&column=7&theme=darkhub" align="center" /></div> 
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" align="center" /></div> 
    
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/4fb6d346-c053-4713-bbd0-c71af81deba0.svg" /></a>
  
