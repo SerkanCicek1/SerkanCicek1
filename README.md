@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://github.com/SerkanCicek1/PaperRockScissors/blob/master/images%20for%20README/Hi%2C%20I'm%20Serkan.png)](https://github.com/SerkanCicek1)
+[![MasterHead](https://github.com/SerkanCicek1/PaperRockScissors/blob/master/Hi%2C%20I'm%20Serkan.png)](https://github.com/SerkanCicek1)
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,spring,mongodb,vscode,discord&theme=dark)](https://skillicons.dev)
 
