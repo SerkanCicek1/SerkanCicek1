@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
  
 <div align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=SerkanCicek1.visitor-badge&left_text=Profile%20views" align="center" />
+<img src="https://visitcount.itsvg.in/api?id=SerkanCicek1&icon=0&color=0" align="center" />
 </div>
 
 ---
