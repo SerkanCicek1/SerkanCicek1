@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
-
+ 
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=SerkanCicek1&icon=0&color=0" align="center" />
 </div>
