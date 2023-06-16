@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=SerkanCicek1&icon=0&color=0" align="center" />
 </div>
- 
+
 <!--
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SerkanCicek1&style=flat-square" align="center" />
