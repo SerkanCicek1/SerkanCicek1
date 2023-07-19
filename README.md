@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://github.com/SerkanCicek1/PaperRockScissors/blob/master/Hi%2C%20I'm%20Serkan.png)](https://github.com/SerkanCicek1)
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,spring,mongodb,postman,vscode,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,spring,mongodb,postman,html,cssvscode,discord&theme=dark)](https://skillicons.dev)
  
  
 <div align="center">
