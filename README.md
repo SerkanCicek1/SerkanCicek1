@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,postman,spring,mongodb,html,css,vscode,discord&theme=dark)](https://skillicons.dev)
 
- 
+
 <div align="center">
 <a href="https://github.com/SerkanCicek1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true" align="center" /></div> 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" align="center" /></div> 
+<img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4"/></div> 
  
  ---
  
