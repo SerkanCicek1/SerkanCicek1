@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanCicek1&theme=tokyonight&layout=compact&hide_border=true" align="center" /></div> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4"/></div> 
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SerkanCicek1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" align="center" /></div> 
  
  ---
  
