@@ -27,7 +27,12 @@ Here are some ideas to get you started:
 </a>
 <a href="https://wakatime.com/@Seko" target="_blank">
 <img src=https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white alt=wakatime style="margin-bottom: 5px;" />
+</a>
+<a href="https://discordapp.com/channels/@me/sekoozt/" target="_blank">
+<img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
 </div>
+
 
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=SerkanCicek1&icon=0&color=0" align="center" />
