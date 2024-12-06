@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,hibernate,postgres,postman,spring,mongodb,html,css,javascript,bootstrap,react&theme=dark)](https://skillicons.dev) 
    
- 
+  
  
 <div align="center">
 <a href="https://github.com/SerkanCicek1" target="_blank">
